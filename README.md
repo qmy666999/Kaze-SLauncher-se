@@ -121,13 +121,6 @@ CI 会运行单元测试和界面截图测试；Release 流水线还会检查正
 
 本项目参考或改编了 [Fold Craft Launcher](https://github.com/FCL-Team/FoldCraftLauncher)、[ZalithLauncher 2](https://github.com/ZalithLauncher/ZalithLauncher2)、[PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)、[Miuix](https://github.com/Miuix-Kotlin-Multiplatform/Miuix) 等项目。具体来源与许可证以第三方声明及对应上游许可证文本为准。
 
-## ☕ 赞助支持
-
-如果这个项目对你有帮助，可以请我喝杯奶茶 ☕
-
-| 支付宝 | 微信 |
-|:------:|:----:|
-| ![支付宝](docs/images/alipay.png) | ![微信](docs/images/wechat.png) |
 
 ## 免责声明
 
